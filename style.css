@@ -9,3 +9,19 @@
 img:hover{
      border-radius: 140px;
 }
+
+img {
+    width:30%;
+    padding: 20px;
+}
+
+.column {
+    display:inline;
+    padding: 30px;
+}
+
+#camera {
+    height:400px;
+    width:500px;
+    border:1px solid black;
+}
